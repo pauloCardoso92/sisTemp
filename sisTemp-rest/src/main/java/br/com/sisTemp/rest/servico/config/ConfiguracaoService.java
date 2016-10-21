@@ -1,4 +1,4 @@
-package br.com.sisTemp.rest.serivo.config;
+package br.com.sisTemp.rest.servico.config;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

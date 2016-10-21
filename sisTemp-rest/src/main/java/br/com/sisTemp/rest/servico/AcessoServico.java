@@ -16,7 +16,6 @@ import br.com.sisTemp.vo.AcessoVO;
  * Criada em 12/10/2016 00:51:59
  *
  * @author Paulo Cardoso <paulo2118@gmail.com>
- * @since 0.0.1
  * @version 0.0.1
  */
 @Path("/acesso")
@@ -28,7 +27,7 @@ public class AcessoServico {
 	 * Metodo responsavel por retornar os acessos <br>
 	 * Criado em 12/10/2016 00:55:12
 	 *
-	 * example: http://localhost:8080/sisTemp-service/rest/acesso
+	 * example: http://localhost:8080/sisTemp-rest/rest/acesso
 	 *
 	 * @author Paulo Cardoso <paulo2118@gmail.com>
 	 * @version 0.0.1-SNAPSHOT
